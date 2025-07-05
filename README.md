@@ -1,6 +1,6 @@
 **CUSTOMER SEGMENTATION USING KMEANS CLUSTERING**
 
-This is Task 02 of my project done as a part of my internship at Skillcraft Technology Company
+This is Task 02 of my project, completed as part of my internship at Skillcraft Technology Company.
 
 **PROBLEM STATEMENT**
 
